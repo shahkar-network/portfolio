@@ -32,6 +32,8 @@ One workspace per address for parcel, recorder, permit, and counterparty signals
 
 <img src="media/images/property-foresight.png" alt="Property workspace homepage" width="900">
 
+<img src="media/images/property-workspace-dashboard.jpg" alt="Property workspace dashboard" width="900">
+
 ## Onyx Markets
 
 Stocks, ETFs, digital assets, forex, and metals in one workspace, with staff picks, signal charts, portfolio tracking, and an analyst. No broker is required. Trade logging is manual. This is not financial advice.
@@ -44,11 +46,15 @@ One pipeline for tips, cheers, and redeems: on-screen graphics, a voice, and a q
 
 <img src="media/images/streaming-tools.png" alt="Live streaming tools homepage" width="900">
 
+<img src="media/images/streaming-tip-queue.png" alt="Tip page with a queue and on-stream alerts" width="900">
+
 ## Telehealth kit
 
 A concept mockup of an at-home kit: blood testing and biological age, a camera for ear, nose, and mouth photos, and a band for blood pressure, oxygen, heart rate, temperature, and calories. It is a presentation mockup, not a medical device, and not for diagnosis.
 
 <img src="media/images/zocdoc-telehealth-kit.png" alt="At-home telehealth kit concept" width="900">
+
+<img src="media/images/telehealth-kit-dashboard.png" alt="At-home kit dashboard" width="900">
 
 ## Vitals Watch
 
@@ -77,6 +83,8 @@ Websites, apps, AI tools, data, accounting systems, IT, commerce, brand, and mar
 An objective player-versus-player game: a tactical cat squad shooter. You create a peer-to-peer server, find a server, or use quickplay. Modes include zone control, team deathmatch, and target. Built with Unreal Engine. AR and VR work has also been done with Unity and Unreal Engine in C++.
 
 <img src="media/images/tactical-zoomies.png" alt="Tactical cat squad game homepage" width="900">
+
+<img src="media/videos/tactical-zoomies-demo.gif" alt="Tactical cat squad match" width="900">
 
 ## Dentel
 
