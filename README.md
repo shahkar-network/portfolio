@@ -12,7 +12,7 @@ Live heart rate for every bed on one station screen, with an alert when a watch 
 
 <img src="media/images/vitals-watch-station.jpg" alt="Station screen with sample beds" width="900">
 
-[Play the demo](https://drive.google.com/file/d/1AUiZJZOgjdSlaXGUkCDx8dWQfojGzE7a/view?usp=sharing)
+https://github.com/user-attachments/assets/4cac7ee1-be47-4cf1-9aa2-d858938e97d8
 
 ## Same Page
 
@@ -68,6 +68,14 @@ One pipeline for tips, cheers, and redeems: on-screen graphics, a voice, and a q
 
 <img src="media/images/streaming-tip-queue.png" alt="Tip page with a queue and on-stream alerts" width="900">
 
+## Tactical Zoomies
+
+An objective player-versus-player game: a tactical cat squad shooter. You create a peer-to-peer server, find a server, or use quickplay. Modes include zone control, team deathmatch, and target. Built with Unreal Engine. AR and VR work has also been done with Unity and Unreal Engine in C++.
+
+<img src="media/images/tactical-zoomies.png" alt="Tactical cat squad game homepage" width="900">
+
+https://github.com/user-attachments/assets/3ac0a921-17bf-4b0e-92fe-60f650e0a560
+
 ## Yellowstone Consulting
 
 Consulting for business and life: formation, accounting and taxes, legal services, strategic consulting, life consulting, and ongoing support.
@@ -80,21 +88,13 @@ Websites, apps, AI tools, data, accounting systems, IT, commerce, brand, and mar
 
 <img src="media/images/sterling-solutions.png" alt="Digital services homepage" width="900">
 
-## Tactical Zoomies
-
-An objective player-versus-player game: a tactical cat squad shooter. You create a peer-to-peer server, find a server, or use quickplay. Modes include zone control, team deathmatch, and target. Built with Unreal Engine. AR and VR work has also been done with Unity and Unreal Engine in C++.
-
-<img src="media/images/tactical-zoomies.png" alt="Tactical cat squad game homepage" width="900">
-
-[Play the demo](https://drive.google.com/file/d/1WqHxM4Hw0MNWoFMJ1ICEUSxewSLgBakY/view?usp=drive_link)
-
 ## Dentel
 
 Dental staff ask by chat or voice and get an answer from the chart, on its own or connected to practice software. The agent fetches the chart and drafts the reply.
 
 <img src="media/images/dentel-public.jpg" alt="Dental practice agent homepage" width="900">
 
-[Play the demo](https://drive.google.com/file/d/1aCFkBQ3RIRx6ZkLKTZuagUzw6Uqfi8gi/view?usp=sharing)
+https://github.com/user-attachments/assets/acbfa6cc-a8f1-4803-b724-0224bd1761ec
 
 ## Blockchain and crypto
 
