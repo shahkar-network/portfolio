@@ -12,7 +12,7 @@ Live heart rate for every bed on one station screen, with an alert when a watch 
 
 <img src="media/images/vitals-watch-station.jpg" alt="Station screen with sample beds" width="900">
 
-<iframe src="https://drive.google.com/file/d/1AUiZJZOgjdSlaXGUkCDx8dWQfojGzE7a/preview" width="900" height="506" allow="autoplay; fullscreen" allowfullscreen></iframe>
+[Play the demo](https://drive.google.com/file/d/1AUiZJZOgjdSlaXGUkCDx8dWQfojGzE7a/view?usp=sharing)
 
 ## Same Page
 
@@ -86,7 +86,7 @@ An objective player-versus-player game: a tactical cat squad shooter. You create
 
 <img src="media/images/tactical-zoomies.png" alt="Tactical cat squad game homepage" width="900">
 
-<iframe src="https://drive.google.com/file/d/1WqHxM4Hw0MNWoFMJ1ICEUSxewSLgBakY/preview" width="900" height="506" allow="autoplay; fullscreen" allowfullscreen></iframe>
+[Play the demo](https://drive.google.com/file/d/1WqHxM4Hw0MNWoFMJ1ICEUSxewSLgBakY/view?usp=drive_link)
 
 ## Dentel
 
@@ -94,7 +94,7 @@ Dental staff ask by chat or voice and get an answer from the chart, on its own o
 
 <img src="media/images/dentel-public.jpg" alt="Dental practice agent homepage" width="900">
 
-<iframe src="https://drive.google.com/file/d/1aCFkBQ3RIRx6ZkLKTZuagUzw6Uqfi8gi/preview" width="900" height="506" allow="autoplay; fullscreen" allowfullscreen></iframe>
+[Play the demo](https://drive.google.com/file/d/1aCFkBQ3RIRx6ZkLKTZuagUzw6Uqfi8gi/view?usp=sharing)
 
 ## Blockchain and crypto
 
