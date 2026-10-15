@@ -40,13 +40,7 @@ Stocks, ETFs, digital assets, forex, and metals in one workspace, with staff pic
 
 <img src="media/images/onyx-markets.png" alt="Market workspace homepage" width="900">
 
-## Streaming tools
-
-One pipeline for tips, cheers, and redeems: on-screen graphics, a voice, and a queue you control, plus multistream and unified chat across Twitch, YouTube, Kick, and X.
-
-<img src="media/images/streaming-tools.png" alt="Live streaming tools homepage" width="900">
-
-<img src="media/images/streaming-tip-queue.png" alt="Tip page with a queue and on-stream alerts" width="900">
+<img src="media/images/onyx-markets-dashboard.png" alt="Market workspace dashboard" width="900">
 
 ## Telehealth kit
 
@@ -55,6 +49,14 @@ A concept mockup of an at-home kit: blood testing and biological age, a camera f
 <img src="media/images/zocdoc-telehealth-kit.png" alt="At-home telehealth kit concept" width="900">
 
 <img src="media/images/telehealth-kit-dashboard.png" alt="At-home kit dashboard" width="900">
+
+## Streaming tools
+
+One pipeline for tips, cheers, and redeems: on-screen graphics, a voice, and a queue you control, plus multistream and unified chat across Twitch, YouTube, Kick, and X.
+
+<img src="media/images/streaming-tools.png" alt="Live streaming tools homepage" width="900">
+
+<img src="media/images/streaming-tip-queue.png" alt="Tip page with a queue and on-stream alerts" width="900">
 
 ## Vitals Watch
 
@@ -94,25 +96,27 @@ Dental staff ask by chat or voice and get an answer from the chart, on its own o
 
 <img src="media/videos/dental-office-demo.gif" alt="Dental product walkthrough" width="900">
 
-## Staking and gaming ecosystem
+## Blockchain and crypto
+
+### Staking and gaming ecosystem
 
 A staking and gaming ecosystem. The screen is a gateway for swapping, staking, farming, governance, and related on-chain tools.
 
 <img src="media/images/staking-ecosystem.png" alt="Staking and gaming ecosystem screen" width="900">
 
-## DeFi exchange
+### DeFi exchange
 
 A DeFi exchange. The screen is a swap form with a connect-wallet action, plus pool, stake, and farm navigation.
 
 <img src="media/images/defi-exchange.png" alt="DeFi exchange swap screen" width="900">
 
-## Multi-chain portal
+### Multi-chain portal
 
 A multi-chain portal for creating markets, staking liquidity positions or single-sided tokens, and earning rewards.
 
 <img src="media/images/multichain-portal.png" alt="Multi-chain portal screen" width="900">
 
-## On-chain order book
+### On-chain order book
 
 A decentralized exchange with an on-chain order book. Limit orders, stop-loss, and take-profit, without liquidity pools. The screen is marked as a test network.
 
