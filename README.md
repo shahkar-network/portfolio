@@ -4,11 +4,15 @@ Full-stack applications and AI agent workflows. The main tool is Cursor, with Co
 
 The stack follows the product: web, mobile, and Windows desktop, using OpenAI, Anthropic, Gemini, Google Cloud, or AWS.
 
-## Ataraxy
+## Vitals Watch
 
-A studio for AI applications, software, and platforms. The homepage is about building AI solutions for the next generation of the internet. The page offers a way to start a project and to view solutions.
+Live heart rate for every bed on one station screen, with an alert when a watch leaves the wrist or someone holds for help. It is a staff-awareness tool, not a medical device, and not for diagnosis. The station view uses sample beds.
 
-<img src="media/images/ataraxy.png" alt="Studio homepage about building AI solutions" width="900">
+<img src="media/images/vitals-watch.png" alt="Heart rate monitoring homepage" width="900">
+
+<img src="media/images/vitals-watch-station.jpg" alt="Station screen with sample beds" width="900">
+
+<iframe src="https://drive.google.com/file/d/1AUiZJZOgjdSlaXGUkCDx8dWQfojGzE7a/preview" width="900" height="506" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 ## Same Page
 
@@ -17,6 +21,12 @@ Video consent from a kiosk, a QR code, or an email link. The homepage is about A
 <img src="media/images/same-page.png" alt="Video consent homepage with a phone recording a clause" width="900">
 
 <img src="media/images/same-page-kiosk.jpg" alt="Kiosk screen with an assistant reading a clause" width="900">
+
+## Ataraxy
+
+A studio for AI applications, software, and platforms. The homepage is about building AI solutions for the next generation of the internet. The page offers a way to start a project and to view solutions.
+
+<img src="media/images/ataraxy.png" alt="Studio homepage about building AI solutions" width="900">
 
 ## Property Prepper
 
@@ -58,16 +68,6 @@ One pipeline for tips, cheers, and redeems: on-screen graphics, a voice, and a q
 
 <img src="media/images/streaming-tip-queue.png" alt="Tip page with a queue and on-stream alerts" width="900">
 
-## Vitals Watch
-
-Live heart rate for every bed on one station screen, with an alert when a watch leaves the wrist or someone holds for help. It is a staff-awareness tool, not a medical device, and not for diagnosis. The station view uses sample beds.
-
-<img src="media/images/vitals-watch.png" alt="Heart rate monitoring homepage" width="900">
-
-<img src="media/images/vitals-watch-station.jpg" alt="Station screen with sample beds" width="900">
-
-<img src="media/videos/vitals-station-demo.gif" alt="Station demo with sample beds and a wrist monitor" width="900">
-
 ## Yellowstone Consulting
 
 Consulting for business and life: formation, accounting and taxes, legal services, strategic consulting, life consulting, and ongoing support.
@@ -86,7 +86,7 @@ An objective player-versus-player game: a tactical cat squad shooter. You create
 
 <img src="media/images/tactical-zoomies.png" alt="Tactical cat squad game homepage" width="900">
 
-<img src="media/videos/tactical-zoomies-demo.gif" alt="Tactical cat squad match" width="900">
+<iframe src="https://drive.google.com/file/d/1WqHxM4Hw0MNWoFMJ1ICEUSxewSLgBakY/preview" width="900" height="506" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 ## Dentel
 
@@ -94,7 +94,7 @@ Dental staff ask by chat or voice and get an answer from the chart, on its own o
 
 <img src="media/images/dentel-public.jpg" alt="Dental practice agent homepage" width="900">
 
-<img src="media/videos/dental-office-demo.gif" alt="Dental product walkthrough" width="900">
+<iframe src="https://drive.google.com/file/d/1aCFkBQ3RIRx6ZkLKTZuagUzw6Uqfi8gi/preview" width="900" height="506" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 ## Blockchain and crypto
 
